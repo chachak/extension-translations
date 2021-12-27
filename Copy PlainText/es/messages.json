@@ -1,14 +1,71 @@
 {
-  "extensionName": { "message": "Copy PlainText" },
-  "extensionDescription": { "message": "Copia texto simple sin formato alguno" },
-
-  "errorClipboard": { "message": "No se pudo guardar al Portapapeles" },
-
-
-  "about": { "message": "Acerca de" },
-  "amo":  { "message": "Firefox restringe ciertas funciones en algunas URLs" },
-  "error": { "message": "Hubo un error con la operación" },
-  "help": { "message": "Ayuda" },
-  "options": { "message": "Opciones" },
-  "saveOptions": { "message": "Guardar" }
+  "extensionName": {
+    "message": "Copy PlainText"
+  },
+  "extensionDescription": {
+    "message": "Copiar y pegar texto simple sin ningún formato"
+  },
+  "pastePlainText": {
+    "message": "Pegar texto sin formato"
+  },
+  "noIndent": {
+    "message": "Remover sangría de párrafo"
+  },
+  "noIndentDescription": {
+    "message": "Seleccionar para remover los espacios al comienzo de cada línea"
+  },
+  "custom": {
+    "message": "Personalizado"
+  },
+  "customDescription": {
+    "message": "Clic en Añadir para personalizar Buscar y reemplazar"
+  },
+  "find": {
+    "message": "Buscar"
+  },
+  "replace": {
+    "message": "Reemplazar"
+  },
+  "add": {
+    "message": "Añadir"
+  },
+  "patternError": {
+    "message": "Hay un error en el patrón de búsqueda"
+  },
+  "amo": {
+    "message": "Firefox restringe algunas funciones en algunas URL"
+  },
+  "about": {
+    "message": "Acerca de"
+  },
+  "error": {
+    "message": "Error en la operación"
+  },
+  "export": {
+    "message": "Exportar"
+  },
+  "fileParseError": {
+    "message": "Error al analizar el archivo"
+  },
+  "fileReadError": {
+    "message": "Error al leer el archivo"
+  },
+  "fileSizeError": {
+    "message": "El tamaño de archivos es mayor que los $1kb permitidos"
+  },
+  "fileTypeError": {
+    "message": "Formato de archivo no soportado"
+  },
+  "help": {
+    "message": "Ayuda"
+  },
+  "import": {
+    "message": "Importar"
+  },
+  "options": {
+    "message": "Opciones"
+  },
+  "saveOptions": {
+    "message": "Guardar"
+  }
 }
